@@ -4,6 +4,7 @@ System.out.println();
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+System.out.println();
 package functions;
 
 import java.io.FileInputStream;
