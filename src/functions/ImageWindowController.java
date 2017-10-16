@@ -2,6 +2,10 @@ System.out.println();
 System.out.println();
 System.out.println();
 System.out.println();
+yangfan
+yangfan
+yangfan
+yangfan
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -10,6 +14,8 @@ System.out.println();
 System.out.println();
 package functions;
 System.out.println();
+package functions;
+yangfan
 import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.fxml.FXML;
@@ -17,6 +23,7 @@ import javafx.fxml.Initializable;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
+yangfan
 /**
  * FXML Controller class
  *

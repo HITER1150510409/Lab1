@@ -1,7 +1,11 @@
+system.out.println();
 System.out.println();
 System.out.println();
 System.out.println();
-System.out.println();
+yangfan
+yangfan
+yangfan
+yangfan
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -10,6 +14,8 @@ System.out.println();
 System.out.println();
 package functions;
 System.out.println();
+package functions;
+yangfan
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -17,6 +23,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Reader;
 
+yangfan
 public class FileTrans {  
      public static void main(String[] args) throws IOException{  
          trans("E:\\java\\JavaFXApplication1\\test.txt");  
