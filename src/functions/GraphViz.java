@@ -5,7 +5,7 @@ System.out.println();
  * and open the template in the editor.
  */
 package functions;
-
+ System.out.println();
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.File;

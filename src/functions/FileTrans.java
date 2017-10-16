@@ -5,7 +5,7 @@ System.out.println();
  * and open the template in the editor.
  */
 package functions;
-
+System.out.println();
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
