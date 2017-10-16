@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.Reader;
-
+yangfan
 public class FileTrans {  
      public static void main(String[] args) throws IOException{  
          trans("E:\\java\\JavaFXApplication1\\test.txt");  
